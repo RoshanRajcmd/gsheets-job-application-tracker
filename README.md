@@ -49,11 +49,8 @@ This guide explains how to set up the **Google Sheets Job Application Tracker** 
 | K      | 10               | Detailed Status                   | String               |
 | L      | 11               | Follow-Up / Interview Date        | Date                 |
 | M      | 12               | No Reply                          | Auto-filled String   |
-| N      | 13               | My Mobile number provided         | Boolean (Y/N)        |
-| O      | 14               | My Mail ID provided               | Boolean (Y/N)        |
-| P      | 15               | Version of Resume Provided        | String               |
-| Q      | 16               | Notes                             | String (multi-line)  |
-| R      | 17               | Salary Allocated                  | Number / String      |
+| Q      | 13               | Notes                             | String (multi-line)  |
+| R      | 14               | Salary Allocated                  | Number / String      |
 
 ---
 
